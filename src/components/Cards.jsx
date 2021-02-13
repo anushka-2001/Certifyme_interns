@@ -43,7 +43,7 @@ class Cards extends Component {
                     <div className="col-md-3"><Card imgsrc={img11} title="Griffin Olson-Allen" text="Pursuing Bachelor's in Data Science at University of Michigan and Analyst at Banking at Michigan." /></div>
                     <div className="col-md-3"><Card imgsrc={img12} title="Heena Rijhwani" text="Pursuing Bachelor's at Thadomal Shahani Engineering College and Ex-Machine Learning Intern at National Engineering Olympiad." /></div>
                     <div className="col-md-3"><Card imgsrc={img13} title="Kathula Jahnavi" text="Pursuing Bachelor's at Malaviya National Institute of Technology." /></div>
-                    <div className="col-md-3"><Card imgsrc={img14} title="Mannat Oberoi" text="Pursued Bachelor of Business Administration at Narsee Monjee Institute of Management Studies (NMIMS)" /></div>
+                    <div className="col-md-3"><Card imgsrc={img14} title="Mannat Oberoi" text="Pursued Bachelor of Business Administration at Narsee Monjee Institute of Management Studies" /></div>
                     <div className="col-md-3"><Card imgsrc={img15} title="Manshi Singhai" text="Pursuing Bachelor's of Technology at Mody Institute of Technology & Science" /></div>
                     <div className="col-md-3"><Card imgsrc={img16} title="Nithya Kruthi" text="Pursuing Bachelor's at Osmania University and Ex-Operations at ImpactGuru." /></div>
                     <div className="col-md-3"><Card imgsrc={img17} title="Rachana Bhaskar" text="Pursuing Master's in Computer Science from Illinois Institute of Technology and Ex-Software Engineer at Dell EMC." /></div>
