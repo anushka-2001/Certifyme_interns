@@ -1,0 +1,9 @@
+.topnav-right {
+    float: right;
+    font-size: 17px;
+  }
+  .topnav-right a:hover {
+    background-color: #ddd;
+    color: black !important;
+    font-size: 17px;
+  }
